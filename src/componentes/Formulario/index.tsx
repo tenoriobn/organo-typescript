@@ -31,6 +31,7 @@ const Formulario = (props: FormularioProps) => {
         setCargo('')
         setImagem('')
         setTime('')
+        setData('');
     }
 
     return (
